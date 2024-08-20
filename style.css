@@ -10,3 +10,18 @@
     background-color: #333333;
     color: #999999;
 }
+.big-bannar{
+    background-image: url(./Img/Image-1.jpg);
+}
+.small-bannar-1{
+    background-image: url(./Img/BG.png);
+}
+.small-bannar-2{
+    background-image: url(./Img/Bg-1-3.png);
+}
+.bg-orange{
+    background-color: #FF8A00;
+}
+.text-main{
+    color: #00B207;
+}
