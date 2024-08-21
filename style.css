@@ -25,6 +25,9 @@
 .text-main{
     color: #00B207;
 }
+.text-orange{
+    color: #FF8A00;
+}
 .w-15{
     width: 15%;
 }
@@ -32,4 +35,17 @@
     .w-15{
         width:30%;
     } 
+}
+.type-1{
+    background-image: url(./Img/Types-1.png);
+}
+.type-2{
+    background-image: url(./Img/Types-2.png);
+}
+.type-3{
+    background-image: url(./Img/Types-3.png)
+}
+.h-96{
+    height: 450px;
+    font-family: 'Roboto', sans-serif;
 }
