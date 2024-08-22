@@ -49,3 +49,7 @@
     height: 450px;
     font-family: 'Roboto', sans-serif;
 }
+.discount-container{
+    background-image: url(./Img/Discount-bg.jpg);
+    height: 300px;
+}
