@@ -34,6 +34,12 @@
 @media screen and (max-width:768px){
     .w-15{
         width:30%;
+        .contact-main-header{
+            display: none;
+        }
+        .contact-main-map{
+           display: none;
+        }
     } 
 }
 .type-1{
@@ -76,4 +82,13 @@
 .insta-6 {
     background-image: url(./Img/Instagram-6.png);
     height: 150px;
+}
+
+.contact-main-header{
+    background-image: url(./Img/Contact-header.png);
+    height: 100px;
+}
+.contact-main-map{
+    background-image: url(./Img/Contact-map.png);
+    height: 300px;
 }
