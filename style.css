@@ -8,7 +8,6 @@
 }
 .bg-black-main{
     background-color: #333333;
-    color: #999999;
 }
 .big-bannar{
     background-image: url(./Img/Big-bannar.jpg);
@@ -34,14 +33,13 @@
 @media screen and (max-width:768px){
     .w-15{
         width:30%;
-        .contact-main-header{
-            display: none;
-        }
-        .contact-main-map{
+    }
+    .contact-main-header,
+    .blog-main-header,
+    .contact-main-map{
            display: none;
-        }
+    }
     } 
-}
 .type-1{
     background-image: url(./Img/Types-1.png);
 }
@@ -91,4 +89,18 @@
 .contact-main-map{
     background-image: url(./Img/Contact-map.png);
     height: 300px;
+}
+.text-main-1{
+    color: #666666;
+}
+.bg-black1{
+    background-color: #333333;
+    color: #B3B3B3;
+}
+.blog-main-header{
+    background-image: url(./Img/Blog-mainbg.png);
+    height: 100px;
+}
+.h-gallery{
+    height: 80px;
 }
