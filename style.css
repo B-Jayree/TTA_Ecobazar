@@ -109,3 +109,7 @@
     background-image: url(./Img/Single_blogbg.png);
     height: 100px;
 }
+.blog-discount-container{
+    background-image: url(./Img/blog-discount.png);
+    height: 190;
+}
