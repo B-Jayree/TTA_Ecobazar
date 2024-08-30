@@ -36,7 +36,8 @@
     }
     .contact-main-header,
     .blog-main-header,
-    .contact-main-map{
+    .contact-main-map,
+    .single-blog-main-header{
            display: none;
     }
     } 
@@ -103,4 +104,8 @@
 }
 .h-gallery{
     height: 80px;
+}
+.single-blog-main-header{
+    background-image: url(./Img/Single_blogbg.png);
+    height: 100px;
 }
